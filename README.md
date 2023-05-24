@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysoni10" alt="akshaysoni10" /></a> </p>
 
-- 🔭 I’m currently working on [Todo-list](https://akshay-react-todo-list.netlify.app)
+- 🔭 I’m currently working on MERN stack project.
 
 - 🌱 I’m currently learning **DSA, React Framework and Javascript**
 
-- 💬 Ask me about **C++, HTML and CSS**
+- 💬 Ask me about **C, C++, Web Development**
 
 - 📫 How to reach me **soniakshay17738@gmail.com**
 
