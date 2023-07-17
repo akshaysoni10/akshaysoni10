@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysoni10" alt="akshaysoni10" /></a> </p>
 
-- 🔭 I’m currently working on MERN stack project.
+- 🔭 I’m currently working as a Front-End Intern at BharatTech.
 
-- 🌱 I’m currently learning **DSA, React Framework and Javascript**
+- 🌱 I’m currently learning **DSA, Javascript and Next.js**
 
-- 💬 Ask me about **C, C++, Web Development**
+- 💬 Ask me about **C, C++, Web Development, Open Source Contribution**
 
 - 📫 How to reach me **soniakshay17738@gmail.com**
 
