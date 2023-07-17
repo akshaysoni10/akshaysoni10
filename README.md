@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working as a Front-End Intern at BharatTech.
 
-- 🌱 I’m currently learning **DSA, Javascript and Next.js**
+- 🌱 I’m currently learning **DSA, Javascript and Next.js**.
 
-- 💬 Ask me about **C, C++, Web Development, Open Source Contribution**
+- 💬 Ask me about **C, C++, Web Development, Open Source Contribution**.
 
-- 📫 How to reach me **soniakshay17738@gmail.com**
+- 📫 How to reach me **soniakshay17738@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
