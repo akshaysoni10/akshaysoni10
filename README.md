@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a Front-End Intern at BharatTech.
 
-- 🌱 I’m currently learning **DSA, Javascript and Next.js**.
+- 🌱 I’m currently practice **DSA and Javascript**.
 
 - 💬 Ask me about **C, C++, Web Development, Open Source Contribution**.
 
