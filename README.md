@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysoni10" alt="akshaysoni10" /></a> </p>
 
-- 🔭 I’m currently working as a Front-End Intern at BharatTech.
+- 🔭 I’m currently employed as a Front-End Intern at BharatTech.
 
-- 🌱 I’m currently practice **DSA and Javascript**.
+- 🌱 I’m currently practice **DSA and MERN**.
 
 - 💬 Ask me about **C, C++, Web Development, Open Source Contribution**.
 
